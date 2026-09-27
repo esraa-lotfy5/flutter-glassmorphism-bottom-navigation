@@ -24,10 +24,9 @@ A glassmorphism bottom navigation bar built from scratch with Flutter, without u
 * `LinearGradient`
 
 ##  Preview
+https://github.com/user-attachments/assets/fe1ff9c5-d490-4d63-b015-23e618b510ca
 
-*Add your screenshot or GIF here.*
 
-![Preview](preview.gif)
 
 ##  How It Works
 
